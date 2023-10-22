@@ -20,8 +20,8 @@ links.forEach(function(link) {
         
         //timers
         setTimeout(function(){
-            location.href="/index.html";
-            //location.href="/";
+            //location.href="/index.html";
+            location.href="../";
         },1000);
 
         return false;
